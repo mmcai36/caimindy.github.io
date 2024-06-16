@@ -2,13 +2,14 @@
 layout: about
 title: about me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD candidate, Research Assistant, University of Washington, Seattle, WA
 
 profile:
   align: left
   image: MC.jpg
   image_circular: true # crops the image to make it circular
-  # more_info: >
+  more_info: false # >
     # <p>555 your office number</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
