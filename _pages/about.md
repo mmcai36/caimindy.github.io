@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: about me
 permalink: /
 subtitle: PhD candidate, Research Assistant, University of Washington, Seattle, WA # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
