@@ -4,12 +4,12 @@
     "label": "Ph.D. Candidate",
     "image": "",
     "email": "mingmingcai306@gmail.com",
-    "phone": "",
+    "phone": "(912) 123-4567",
     "url": "https://caimindy.github.io/",
     "summary": "I am an AI enthusiast focusing on society-centered AI technologies and their impacts on human life.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      # "address": "",
+      # "postalCode": "",
       "city": "Seattle",
       "countryCode": "US",
       "region": "Washington"
