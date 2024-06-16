@@ -7,7 +7,7 @@ subtitle: PhD candidate, Research Assistant, University of Washington, Seattle, 
 profile:
   align: right
   image: MC.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: > 
     <p>Seattle, Washington</p>
 
