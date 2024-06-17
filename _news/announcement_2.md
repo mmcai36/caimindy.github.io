@@ -12,7 +12,7 @@ I'm pleased to share our recent paper on "Developing a multi-criteria prioritiza
 
 In this paper, we developed a multi-criteria TOD prioritization tool and tested it on selected park-and-ride sites owned by the Washington State Department of Transportation. The resulting tool can be used to identify park-and-ride sites that are most suitable for TOD, as well as to prioritize other forms of publicly owned land that are potentially suitable for TOD.
 
-The paper is accessible via the <a href="[https://www.pinterest.com](https://www.sciencedirect.com/science/article/abs/pii/S0264275123004183)">link</a>.
+The paper is accessible via the <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264275123004183">link</a>.
 
 <!---
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
