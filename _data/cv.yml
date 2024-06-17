@@ -114,15 +114,15 @@
     - title: Statistical Analysis
       items:
         - Time Series Analysis, Network Analysis, Causal Inference, Bayesian Inference
-    #- title: Hadoop Ecosystem
-      #items:
-        #- Spark, Pyspark, MapReduce
-      #- title: Spatial Analysis & Simulation
-      #items:
-        #- ArcGIS, QGIS, GeoDa, SUMO, MATSim
-      #- title: Data Visualization
-      #items:
-        #- Tableau, Power BI, D3.js, CSS
+    - title: Hadoop Ecosystem
+      items:
+        - Spark, Pyspark, MapReduce
+    - title: Spatial Analysis & Simulation
+      items:
+        - ArcGIS, QGIS, GeoDa, SUMO, MATSim
+    - title: Data Visualization
+      items:
+        - Tableau, Power BI, D3.js, CSS
 
 - title: Teaching Experience
   type: list
