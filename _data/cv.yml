@@ -1,25 +1,25 @@
 - title: Bio
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Mingming Cai
     - name: Email
-      value: mingmingcai306@gmail.com/mmcai@uw.edu
+      value: mingmingcai306@gmail.com; mmcai@uw.edu
     - name: Label
       value: I am an AI enthusiast focusing on society-centered AI technologies and their impacts on social equity and sustainable living space.
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Urban Design and Planning
+    - title: Ph.D. in Urban Design and Planning
       institution: University of Washington
-      year: September 2020 - May 2025 (Expected)
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2020 - 2025
+      # description:
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+          # contents:
+            # - Sub-description 1.
+            # - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
