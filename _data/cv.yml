@@ -33,7 +33,7 @@
       institution: Wuhan University
       year: 2013 - 2017
 
-- title: Professional Experience
+- title: Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -66,7 +66,7 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Research Projects
+- title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
