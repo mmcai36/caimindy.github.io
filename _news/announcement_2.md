@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research paper published in Cities
-date: 2024-11-06
+date: 2023-11-06
 inline: false
 related_posts: false
 ---
