@@ -85,13 +85,13 @@
         - Grand Prize, Geographic Information Science and Technology Innovation Contest, Ministry of Natural Resources of China
     - year: 2018
       items:
-        - First-level Scholarships,Wuhan University
+        - First-level Scholarships, Wuhan University
      - year: 2017
       items:
         - Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
       - year: 2016
       items:
-        - Honorable Mention, Interdisciplinary Contest in Modeling , Consortium for Mathematics and its Applications (COMAP)
+        - Honorable Mention, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications (COMAP)
       - year: 2015
       items:
         - National Scholarship, Ministry of Education of China
@@ -102,14 +102,27 @@
 - title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, R, SQL, JavaScript, Html
+    - title: Python Libraries for ML/DL
       items:
-        - Description 1.
-        - Description 2.
+        - PyTorch, TensorFlow, Keras, Scikit-learn, SciPy, Numpy, Pandas
+    - title: NLP
+      items:
+        - Scikit-learn, Genism, spaCy, Pyspark MLlib
+    - title: Statistical Analysis
+      items:
+        - Time Series Analysis, Network Analysis, Causal Inference, Bayesian Inference
+    - title: Hadoop Ecosystem
+      items:
+        - Spark, Pyspark, MapReduce
+      - title: Spatial Analysis & Simulation
+      items:
+        - ArcGIS, QGIS, GeoDa, SUMO, MATSim
+      - title: Data Visualization
+      items:
+        - Tableau, Power BI, D3.js, CSS
 
 - title: Other Interests
   type: list
