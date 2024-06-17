@@ -11,7 +11,7 @@
   type: time_table
   contents:
     - title: Ph.D. in Urban Design and Planning
-      institution: University of Washington
+      institution: University of Washington, Seattle
       year: 2020 - 2025
       # description:
         # - Description 1.
@@ -20,12 +20,18 @@
           # contents:
             # - Sub-description 1.
             # - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: M.S. in Statistics
+      institution: University of Washington, Seattle
+      year: 2023 - 2025
+      # description:
+        # - Description 1.
+        # - Description 2.
+    - title: M.S. in Land Economics and Resources Management
+      institution: Wuhan University
+      year: 2017 - 2020
+    - title: B.E. in Earth and Geographic Information Science
+      institution: Wuhan University
+      year: 2013 - 2017
 
 - title: Experience
   type: time_table
