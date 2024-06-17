@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-15
+date: 2023-10-01
 inline: true
 related_posts: false
 ---
 
-Passed my PhD general exam!
+Paper accepted by the 2024 TRB Conference
