@@ -85,12 +85,12 @@ real estate tax revenue for Shanghai pilot projects.
     - year: 2018
       items:
         - First-level Scholarships, Wuhan University
-    - year: 2017
-      items:
-        - Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
-    - year: 2016
-      items:
-        - Honorable Mention, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications (COMAP)
+    #- year: 2017
+      #items:
+        #- Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
+    #- year: 2016
+      #items:
+        #- Honorable Mention, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications (COMAP)
       #- year: 2015
       #items:
         #- National Scholarship, Ministry of Education of China
