@@ -36,9 +36,10 @@
 - title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Time-series Forecasting of Real Estate Taxes using Deep Learning Techniques
+      year: 2016
+      description: Implemented time-series prediction models using ARIMA, exponential smoothing models, and recurrent neural networks to forecast
+real estate tax revenue for Shanghai pilot projects.
 
 - title: Professional Experience
   type: time_table
@@ -84,9 +85,9 @@
     - year: 2018
       items:
         - First-level Scholarships, Wuhan University
-     #- year: 2017
-      #items:
-        #- Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
+     - year: 2017
+      items:
+        - Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
       #- year: 2016
       #items:
         #- Honorable Mention, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications (COMAP)
