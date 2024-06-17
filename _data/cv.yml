@@ -83,12 +83,12 @@
     - year: 2019
       items:
         - Grand Prize, Geographic Information Science and Technology Innovation Contest, Ministry of Natural Resources of China
-    - year: 2018
-      items:
-        - First-level Scholarships, Wuhan University
-     - year: 2017
-      items:
-        - Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
+    #- year: 2018
+      #items:
+        #- First-level Scholarships, Wuhan University
+     #- year: 2017
+      #items:
+        #- Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
       #- year: 2016
       #items:
         #- Honorable Mention, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications (COMAP)
@@ -108,9 +108,9 @@
     - title: Python Libraries for ML/DL
       items:
         - PyTorch, TensorFlow, Keras, Scikit-learn, SciPy, Numpy, Pandas
-    - title: NLP
-      items:
-        - Scikit-learn, Genism, spaCy, Pyspark MLlib
+    #- title: NLP
+      #items:
+        #- Scikit-learn, Genism, spaCy, Pyspark MLlib
     #- title: Statistical Analysis
       #items:
         #- Time Series Analysis, Network Analysis, Causal Inference, Bayesian Inference
