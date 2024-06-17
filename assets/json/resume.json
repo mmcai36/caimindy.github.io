@@ -103,13 +103,27 @@
     {
       "name": "Programming Languages",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-location-dot",
       "keywords": [
         "Python",
         "R",
         "SQL",
         "JavaScript",
         "Html"
+      ]
+    },
+    {
+      "name": "Python Libraries for ML/DL",
+      "level": "Master",
+      "icon": "fa-solid fa-location-dot",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "SciPy",
+        "Numpy",
+        "Pandas
       ]
     }
   ],
