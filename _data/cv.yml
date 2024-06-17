@@ -38,8 +38,7 @@
   contents:
     - title: Time-series Forecasting of Real Estate Taxes using Deep Learning Techniques
       year: 2016
-      description: Implemented time-series prediction models using ARIMA, exponential smoothing models, and recurrent neural networks to forecast
-real estate tax revenue for Shanghai pilot projects.
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Professional Experience
   type: time_table
