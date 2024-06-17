@@ -1,13 +1,6 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
 
+I am an AI enthusiast focusing on society-centered AI technologies and their impacts on human life.
+---
 - title: Education
   type: time_table
   contents:
