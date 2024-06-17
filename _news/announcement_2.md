@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-Research paper published in Cities
-
 I'm pleased to share our recent paper on "Developing a multi-criteria prioritization tool to catalyze TOD on publicly owned land areas" published in Cities. Many thanks to the co-authors of this paper: Professor Arthur Acolin, Professor Anne Vernez Moudon, and Professor Qing Shen.
 
 In this paper, we developed a multi-criteria TOD prioritization tool and tested it on selected park-and-ride sites owned by the Washington State Department of Transportation. The resulting tool can be used to identify park-and-ride sites that are most suitable for TOD, as well as to prioritize other forms of publicly owned land that are potentially suitable for TOD.
