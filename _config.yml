@@ -129,7 +129,6 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-<!---
 blog_name: Mingming Cai # blog_name will be displayed in your blog page
 blog_description: Anything is possible as long as you have the courage to pursue it
 permalink: /blog/:year/:title/
@@ -172,7 +171,7 @@ external_sources:
     posts:
       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
         published_date: 2024-05-14
--->
+
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
