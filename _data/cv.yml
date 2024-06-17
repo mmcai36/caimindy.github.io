@@ -83,12 +83,12 @@
     - year: 2019
       items:
         - Grand Prize, Geographic Information Science and Technology Innovation Contest, Ministry of Natural Resources of China
-    #- year: 2018
-      #items:
-        #- First-level Scholarships, Wuhan University
-     #- year: 2017
-      #items:
-        #- Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
+    - year: 2018
+      items:
+        - First-level Scholarships, Wuhan University
+     - year: 2017
+      items:
+        - Outstanding Undergraduate Thesis, Department of Education of Hubei Province, China
       #- year: 2016
       #items:
         #- Honorable Mention, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications (COMAP)
@@ -99,7 +99,7 @@
       #items:
         #- National Scholarship, Ministry of Education of China
 
-- title: Skills
+- title: Academic Interests
   type: nested_list
   contents:
     - title: Programming Languages
