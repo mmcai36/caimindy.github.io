@@ -108,9 +108,9 @@
     - title: Python Libraries for ML/DL
       items:
         - PyTorch, TensorFlow, Keras, Scikit-learn, SciPy, Numpy, Pandas
-    #- title: NLP
-      #items:
-        #- Scikit-learn, Genism, spaCy, Pyspark MLlib
+    - title: NLP
+      items:
+        - Scikit-learn, Genism, spaCy, Pyspark MLlib
     #- title: Statistical Analysis
       #items:
         #- Time Series Analysis, Network Analysis, Causal Inference, Bayesian Inference
