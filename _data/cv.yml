@@ -5,14 +5,12 @@
       value: Mingming Cai
     - name: Email
       value: mingmingcai306@gmail.com/mmcai@uw.edu
-    - name: Languages
-      value: English, Chinese
-    - name: Summary
-    value: I am an AI enthusiast focusing on society-centered AI technologies and their impacts on social equity and sustainable living space.
+    - name: Label
+      value: I am an AI enthusiast focusing on society-centered AI technologies and their impacts on social equity and sustainable living space.
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Urban Design and Planning
       institution: University of Washington
       year: September 2020 - May 2025 (Expected)
       description:
