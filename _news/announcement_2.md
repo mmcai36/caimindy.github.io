@@ -1,11 +1,20 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Research paper published in Cities
+date: 2024-11-06
 inline: false
 related_posts: false
 ---
 
+Research paper published in Cities
+
+I'm pleased to share our recent paper on "Developing a multi-criteria prioritization tool to catalyze TOD on publicly owned land areas" published in Cities. Many thanks to the co-authors of this paper: Professor Arthur Acolin, Professor Anne Vernez Moudon, and Professor Qing Shen.
+
+In this paper, we developed a multi-criteria TOD prioritization tool and tested it on selected park-and-ride sites owned by the Washington State Department of Transportation. The resulting tool can be used to identify park-and-ride sites that are most suitable for TOD, as well as to prioritize other forms of publicly owned land that are potentially suitable for TOD.
+
+The paper is accessible via the <a href="[https://www.pinterest.com](https://www.sciencedirect.com/science/article/abs/pii/S0264275123004183)">link</a>.
+
+<!---
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ---
@@ -31,3 +40,5 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+
+-->
