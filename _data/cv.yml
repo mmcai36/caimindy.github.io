@@ -6,7 +6,7 @@
     - name: Email
       value: mingmingcai306@gmail.com; mmcai@uw.edu
     - name: Label
-      value: I am an AI enthusiast focusing on society-centered AI technologies and their impacts on social equity and sustainable living space.
+      value: I am an AI enthusiast focusing on human-centered AI technologies and their impacts on social equity and sustainable living space.
 - title: Education
   type: time_table
   contents:
@@ -36,6 +36,9 @@
 - title: Research Projects
   type: time_table
   contents:
+    - title: Airbnb Recommender System: NLP-Driven Semantic Information Mining for User Preferences
+      year: 2024
+      description: Implemented end-to-end sentiment analysis, topic modeling (BERTopic, LDA), and multi-task learning to extract semantic information from millions of user review comments and develop personalized recommendations.
     - title: Time-series Forecasting of Real Estate Taxes using Deep Learning Techniques
       year: 2016
       description: Developed time-series prediction models using ARIMA, exponential smoothing models, and recurrent neural networks to forecast real estate tax revenue for Shanghai pilot projects.
