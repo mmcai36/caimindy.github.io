@@ -22,7 +22,7 @@ I am a Ph.D. candidate in Urban Planning at the University of Washington, concur
 ### Researh Interests
 
 <ul>
-    <li>Responsible AI (Interpretability, Fairness, Robustness</li>
+    <li>Responsible AI (Interpretability, Fairness, Robustness)</li>
     <li>Generative AI and Synthetic Data</li>
     <li>Spatiotemporal Data Mining</li>
     <li>Time Series Analysis</li>
