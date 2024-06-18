@@ -12,7 +12,7 @@
   contents:
     - title: Ph.D. in Urban Design and Planning
       institution: University of Washington, Seattle
-      year: 2020.9 - present
+      year: 2020.9 -
       # description:
         # - Description 1.
         # - Description 2.
@@ -22,7 +22,7 @@
             # - Sub-description 2.
     - title: M.S. in Statistics
       institution: University of Washington, Seattle
-      year: 2023.9 - present
+      year: 2023.9 -
       # description:
         # - Description 1.
         # - Description 2.
@@ -52,8 +52,8 @@
     - title: Data Analyst - Modeling Intern
       institution: Chicago Metropolitan Agency for Planning, Chicago, IL
       year: 2023.6 - 2023.8
-      description:
-        - Developed Python scripts for efficient measurement of transit accessibility index, integrating multi-source data inputs.
+      #description:
+        #- Developed Python scripts for efficient measurement of transit accessibility index, integrating multi-source data inputs.
         #- Optimized the EMME auto-routing algorithm and cross-validated it with Google Maps routing.
         #- title: Description 3.
           #contents:
