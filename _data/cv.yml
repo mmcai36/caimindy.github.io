@@ -46,37 +46,6 @@
       year: 2017
       description: Developed time-series prediction models using ARIMA, exponential smoothing models, and recurrent neural networks to forecast real estate tax revenue for Shanghai pilot projects.
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Data Analyst - Modeling Intern
-      institution: Chicago Metropolitan Agency for Planning, Chicago, IL
-      year: 2023.6 - 2023.8
-      description:
-        - Description 1.
-        #- Description 2.
-        #- title: Description 3.
-          #contents:
-            #- Sub-description 1.
-            #- Sub-description 2.
-    - title: Research Assistant
-      institution: Department of Urban Design and Planning, University of Washington, WA
-      year: 2022.6 - 2022.8
-      description:
-        - Description 1.
-    - title: Research Assistant
-      institution: Department of Urban Design and Planning, University of Washington, WA
-      year: 2021.6 - 2021.8
-    - title: Research Scientist Intern
-      institution: Wuhan Transportation Development Strategy Institute, Wuhan, China
-      year: 2020.6 - 2020.8
-    - title: Research Assistant
-      institution:  Urban Information Lab, University of Texas at Austin, TX
-      year: 2019.6 - 2019.8
-    - title: Data Science and Big Data Analytics Intern
-      institution: Wuhan Geomatics Institute
-      year: 2018.6 - 2018.8
-
 - title: Honors and Awards
   type: time_table
   contents:
