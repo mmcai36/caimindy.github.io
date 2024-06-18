@@ -36,9 +36,9 @@
 - title: Research Projects
   type: time_table
   contents:
-    #- title: Airbnb Recommender System: NLP-Driven Semantic Information Mining for User Preferences
-      #year: 2023
-      #description: Implemented end-to-end sentiment analysis, topic modeling (BERTopic, LDA), and multi-task learning to extract semantic information from millions of user review comments and develop personalized recommendations.
+    - title: Equity Implications of US Suburban and Rural On-Demand Mobility Services Using Explainable ML
+      year: 2024
+      description: Employed ML/DL models to uncover the nonlinear effects of sociodemographics, trip attributes, and the built environment characteristics on the usage of on-demand mobility services.
     - title: Airbnb Recommender System - NLP-Driven Semantic Information Mining for User Preferences
       year: 2023
       description: Implemented end-to-end sentiment analysis, topic modeling (BERTopic, LDA), and multi-task learning to extract semantic information from millions of user review comments and develop personalized recommendations.
