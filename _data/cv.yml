@@ -36,9 +36,12 @@
 - title: Research Projects
   type: time_table
   contents:
-    - title: Airbnb Recommender System: NLP-Driven Semantic Information Mining for User Preferences
-      year: 2023
-      description: Implemented end-to-end sentiment analysis, topic modeling (BERTopic, LDA), and multi-task learning to extract semantic information from millions of user review comments and develop personalized recommendations.
+    #- title: Airbnb Recommender System: NLP-Driven Semantic Information Mining for User Preferences
+      #year: 2023
+      #description: Implemented end-to-end sentiment analysis, topic modeling (BERTopic, LDA), and multi-task learning to extract semantic information from millions of user review comments and develop personalized recommendations.
+    - title: Time-series Forecasting of Real Estate Taxes using Deep Learning Techniques
+      year: 2017
+      description: Developed time-series prediction models using ARIMA, exponential smoothing models, and recurrent neural networks to forecast real estate tax revenue for Shanghai pilot projects.
     - title: Time-series Forecasting of Real Estate Taxes using Deep Learning Techniques
       year: 2017
       description: Developed time-series prediction models using ARIMA, exponential smoothing models, and recurrent neural networks to forecast real estate tax revenue for Shanghai pilot projects.
