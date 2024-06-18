@@ -54,7 +54,7 @@
       year: 2023.6 - 2023.8
       description:
         - Developed Python scripts for efficient measurement of transit accessibility index, integrating multi-source data inputs.
-        - Optimized the EMME auto-routing algorithm and cross-validated it with Google Maps routing.
+        #- Optimized the EMME auto-routing algorithm and cross-validated it with Google Maps routing.
         #- title: Description 3.
           #contents:
             #- Sub-description 1.
