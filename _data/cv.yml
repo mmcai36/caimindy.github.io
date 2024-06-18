@@ -62,23 +62,28 @@
     - title: Research Assistant
       institution: Department of Urban Design and Planning, University of Washington, WA
       year: 2022.6 - 2022.8
-      description: <a href='https://www.researchsquare.com/article/rs-4478426/v1/'>Incorporating Mobility on Demand into Public Transit in Suburban Areas - A Comparative Evaluation of Cost-Effectiveness</a>
+      description: 
+        - <a href='https://www.researchsquare.com/article/rs-4478426/v1/'>Incorporating Mobility on Demand into Public Transit in Suburban Areas - A Comparative Evaluation of Cost-Effectiveness</a>
     - title: Research Assistant
       institution: Department of Urban Design and Planning, University of Washington, WA
       year: 2021.6 - 2021.8
-      description: <a href='https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/49969/Shen-Ban-Lowry-Moudon_Shared%20Mobility%20Opportunities%20Final.pdf?sequence=1&isAllowed=y/'>Chapter 3 - Examining Commute Mode Choice of Essential Workers Before and During the COVID-19 Pandemic Using Travel Survey Data</a>
+      description: 
+        - <a href='https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/49969/Shen-Ban-Lowry-Moudon_Shared%20Mobility%20Opportunities%20Final.pdf?sequence=1&isAllowed=y/'>Chapter 3 - Examining Commute Mode Choice of Essential Workers Before and During the COVID-19 Pandemic Using Travel Survey Data</a>
     - title: Research Scientist Intern
       institution: Wuhan Transportation Development Strategy Institute, Wuhan, China
       year: 2020.6 - 2020.8
-      description: Implemented Conv-LSTM neural networks to predict citywide dockless bike sharing demand, capturing spatio-temporal dependencies in the demand.
+      description: 
+        - Implemented Conv-LSTM neural networks to predict citywide dockless bike sharing demand, capturing spatio-temporal dependencies in the demand.
     - title: Research Assistant
       institution:  Urban Information Lab, University of Texas at Austin, TX
       year: 2019.6 - 2019.8
-      description: <a href='https://sites.utexas.edu/uil/2024/04/28/identifying-transit-deserts-for-low-income-commuters-in-wuhan-metropolitan-area-china/'>Identifying transit deserts for low-income commuters in Wuhan Metropolitan Area, China</a>
+      description: 
+        - <a href='https://sites.utexas.edu/uil/2024/04/28/identifying-transit-deserts-for-low-income-commuters-in-wuhan-metropolitan-area-china/'>Identifying transit deserts for low-income commuters in Wuhan Metropolitan Area, China</a>
     - title: Data Science and Big Data Analytics Intern
       institution: Wuhan Geomatics Institute
       year: 2018.6 - 2018.8
-      description: Developed spatio-temporal data mining algorithms to identify short-term and long-term citywide commute behavior patterns using cell phone signaling data
+      description: 
+        - Developed spatio-temporal data mining algorithms to identify short-term and long-term citywide commute behavior patterns using cell phone signaling data
 
 - title: Honors and Awards
   type: time_table
