@@ -20,7 +20,7 @@ I am a Ph.D. candidate in Urban Planning at the University of Washington, concur
 
 
 
-### Researh Interests
+### Research Interests
 
 <ul>
     <li>Responsible AI (Interpretability, Fairness, Robustness)</li>
