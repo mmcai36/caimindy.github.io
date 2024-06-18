@@ -43,6 +43,8 @@
       year: 2016
       description: Developed time-series prediction models using ARIMA, exponential smoothing models, and recurrent neural networks to forecast real estate tax revenue for Shanghai pilot projects.
     - title: Airbnb Recommender System: NLP-Driven Semantic Information Mining for User Preferences
+      year: 2023
+      description: Developed
 
 - title: Professional Experience
   type: time_table
