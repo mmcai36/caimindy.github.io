@@ -12,7 +12,7 @@
   contents:
     - title: Ph.D. in Urban Design and Planning
       institution: University of Washington, Seattle
-      year: 2020 - 2025
+      year: 2020.9 -
       # description:
         # - Description 1.
         # - Description 2.
@@ -22,16 +22,16 @@
             # - Sub-description 2.
     - title: M.S. in Statistics
       institution: University of Washington, Seattle
-      year: 2023 - 2025
+      year: 2023.9 -
       # description:
         # - Description 1.
         # - Description 2.
     - title: M.S. in Land Economics and Resources Management
       institution: Wuhan University
-      year: 2017 - 2020
+      year: 2017.9 - 2020.6
     - title: B.E. in Earth and Geographic Information Science
       institution: Wuhan University
-      year: 2013 - 2017
+      year: 2013.9 - 2017.6
 
 - title: Research Projects
   type: time_table
