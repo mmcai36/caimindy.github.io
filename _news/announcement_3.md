@@ -6,6 +6,6 @@ inline: false
 related_posts: false
 ---
 
-I am honored to receive the Outstanding PhD Student Award for Academic Achievement and Leadership from the UW UDP program! :sparkles:
+I am honored to receive the Outstanding PhD Student Award for High Scholarship and Leadership Qualities from the UW UDP program! :sparkles:
 
 <img src="/assets/img/PhDAwards_edit2.jpeg">
