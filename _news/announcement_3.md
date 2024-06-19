@@ -8,4 +8,4 @@ related_posts: false
 
 I am honored to receive the Outstanding PhD Student Award for High Scholarship and Leadership Qualities from the UW UDP program! :sparkles:
 
-<img src="/assets/img/PhDAwards_edit2.jpeg">
+<img alt="alt_text" width="40px" src="/assets/img/PhDAwards_edit2.jpeg">
