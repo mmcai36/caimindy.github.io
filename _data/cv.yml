@@ -90,7 +90,7 @@
   contents:
     - year: 2024
       items:
-        - Outstanding PhD Student Award for Academic Achievement and Leadership, University of Washington
+        - Outstanding PhD Student Award for High Scholarship and Leadership Qualities, Department of Urban Design and Planning, UW
         # - Matteucci Medal
     - year: 2019
       items:
@@ -137,7 +137,12 @@
         - Tableau, Power BI, D3.js, CSS
 
 - title: Teaching Experience
-  type: list
+  type: nested_list
   contents:
-    - Teaching Assistant, URBDP 561/PUBPOL 561 <u>Urban Economics and Public Policy:</u>, Lectured by Prof. Qing Shen, Spring 2024, UW
-    - Teaching Assistant, URBDP 561/PUBPOL 561 <u>Urban Economics and Public Policy:</u>, Lectured by Prof. Qing Shen, Spring 2023, UW
+    - title: Teaching Assistant, URBDP 561/PUBPOL 561 <u>Urban Economics and Public Policy:</u>, Spring 2024, UW
+      items:
+        - "The TA office hours were extremely helpful, especially when completing the assignments, and extra time available to ask the questions was
+particularly helpful." -- Student's comments for TA
+    - title: Teaching Assistant, URBDP 561/PUBPOL 561 <u>Urban Economics and Public Policy:</u>, Spring 2023, UW
+      items:
+        - "The homework assignments really brought the concepts together." -- Student's comments for TA
