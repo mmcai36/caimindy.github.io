@@ -33,7 +33,7 @@
       institution: Wuhan University
       year: 2013.9 - 2017.6
 
-- title: Research Projects
+- title: AI Research Projects
   type: time_table
   contents:
     - title: Equity Implications of US Suburban and Rural On-Demand Mobility Services Using Explainable ML
